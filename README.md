@@ -25,7 +25,7 @@ db.connect('database.db')
 **Important**: 
  
 ```
-ALTERtable [table] RENAME TO [rename];
+ALTER table [table] RENAME TO [rename];
 [variable] = variable: str
 
 db.rename_table(str, str)
