@@ -1,0 +1,1 @@
+from fastsqlite.fastsqlite import FastSQLite
