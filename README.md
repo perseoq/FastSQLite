@@ -39,19 +39,19 @@ example:
 db.**create_table**(table, columns):
 
 ```SQL 
-CREATEtable [table]([columns]);
+CREATE table [table]([columns]);
 ```
 
 db.**rename_table**(table, rename):
 
 ```SQL 
-ALTERtable [table] RENAME TO [rename];
+ALTER table [table] RENAME TO [rename];
 ```
 
 db.**drop_table**(table):
 
 ```SQL 
-DROPtable [table];
+DROP table [table];
 ```
 
 

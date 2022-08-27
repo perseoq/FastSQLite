@@ -1,0 +1,8 @@
+README.md
+setup.py
+fastsqlite/__init__.py
+fastsqlite/fastsqlite.py
+fastsqlite.egg-info/PKG-INFO
+fastsqlite.egg-info/SOURCES.txt
+fastsqlite.egg-info/dependency_links.txt
+fastsqlite.egg-info/top_level.txt
